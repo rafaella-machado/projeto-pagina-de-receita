@@ -14,5 +14,5 @@ O projeto é uma única página que contém:
 - Estilização básica com CSS para tornar a página visualmente atraente.
 
 ## Tecnologias Utilizadas
-HTML5: Para a estruturação do conteúdo da página.
-CSS3: Para a estilização e design da página.
+- HTML5: Para a estruturação do conteúdo da página.
+- CSS3: Para a estilização e design da página.
